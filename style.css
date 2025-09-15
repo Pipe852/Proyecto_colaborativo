@@ -1,0 +1,13 @@
+/* Navbar con fondo degradado */
+.navbar {
+  background: linear-gradient(90deg, #0d6efd, #6610f2);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+/* Marca (logo o nombre) */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #fff !important;
+  letter-spacing: 1px;
+  transition: color
